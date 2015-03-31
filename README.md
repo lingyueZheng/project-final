@@ -1,7 +1,7 @@
 #READ ME
 
 ## Final Project: Portfolio
-## Points: 50 points (40 = portfolio, 10 = presentation)
+## Points: 55 points (40 = portfolio, 15 = presentation)
 
 ### Instructions
 
@@ -57,7 +57,7 @@ Topics you may choose to discuss:
 
 Be prepared for fellow students (or your professor) to ask questions.
 
-**If links are not received by the start of the final class meeting, points allotted for the presentation of your portfolio will not be granted. Again, your presentation accounts for 10 points. Additionally, one (1) point will be deducted for every hour the assignment is late.**
+**If links are not received by the start of the final class meeting, points allotted for the presentation of your portfolio will not be granted. Again, your presentation accounts for 15 points. Additionally, one (1) point will be deducted for every hour the assignment is late.**
 
 During presentations, no laptops, mobile phones, devices, etc. will be permitted to be in use. Students are expected to be attentive and respectful of their peers. Those who are disruptive will be asked to leave and will forfeit their presentation points.
 
