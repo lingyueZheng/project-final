@@ -29,7 +29,7 @@ You have the freedom to be creative in how you present your portfolio, but the s
 - Effective site navigation
 - No design sins
 
-That's it. Other than what is listed above are no minimum requirements for use of specific HTML or CSS elements as were set forth in the previous two assignments. (For instance, if you include a résumé in your portfolio site, you do not need to include the in-page navigation for each section.)
+That's it. Other than what are listed above there are no minimum requirements for use of specific HTML or CSS elements as were set forth in the previous two assignments. (For instance, if you include a résumé in your portfolio site, you do not need to include the in-page navigation for each section.)
 
 
 ### Deadline
@@ -116,6 +116,6 @@ Pay attention to detail.
 
 **DO NOT** wait until the last minute.
 
-Play. Explore. Have fun. 
+Play. Explore. Have fun.
 
 Do epic ... stuff. :)
